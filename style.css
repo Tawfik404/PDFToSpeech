@@ -3,7 +3,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 20%;
+    height: 100vh;
 }
 .box{
     background-color: blueviolet;
